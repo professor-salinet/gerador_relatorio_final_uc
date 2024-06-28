@@ -1,0 +1,127 @@
+﻿Data;
+24/04/2024;"BASE TECNOLÓGICA:
+Aplica correções e melhorias a partir da validação e depuração do código de integração do web services, conforme necessidades do projeto. OBSERVAÇÕES:
+Foi necessário retomar as atividades com o Desafio Liga Jovem Sebrae 2024, pois houve um problema com o cadastro dos alunos nas equipes e foi preciso refazer o cadastro das equipes."
+25/04/2024;"BASE TECNOLÓGICA:
+Consome serviços web por meio do aplicativo de acordo com funcionalidades da plataforma mobile. OBSERVAÇÕES:
+Alunos não compareceram no espaço conexão, pois estavam em atividade esportiva no bairro aeroporto, por isso não foi possível realizar a chamada."
+26/04/2024;"BASE TECNOLÓGICA:
+Consome serviços web por meio do aplicativo de acordo com funcionalidades da plataforma mobile. OBSERVAÇÕES:
+Reorganização e instruções do Desafio Liga Jovem Sebrae 2024; Retomada de atividades com desenvolvimento de códigos."
+29/04/2024;"BASE TECNOLÓGICA:
+Consome serviços web por meio do aplicativo de acordo com funcionalidades da plataforma mobile. OBSERVAÇÕES:
+Continuação da reorganização do Desafio Liga Jovem Sebrae 2024. Consegui encontrar os códigos das equipes que não estavam aparecendo pra mim, pelos links https:--inscricao.desafioligajovem.com.br-orientador-equipe-info-3224 e https:--inscricao.desafioligajovem.com.br-orientador-equipe-info-3238, com isso consegui excluir todas as equipes que criei equivocadamente pelo projeto CRIA, para inscrever corretamente os alunos do projeto INSPIRA."
+30/04/2024;"BASE TECNOLÓGICA:
+Realiza autenticação a partir de serviços web públicos e redes sociais de acordo com funcionalidades da plataforma mobile. OBSERVAÇÕES:
+Configuração do proxy do Android Studio e download do SDK Manager para uso no mesmo."
+02/05/2024;"BASE TECNOLÓGICA:
+Consome serviços web por meio do aplicativo de acordo com funcionalidades da plataforma mobile. OBSERVAÇÕES:
+Continuação da preparação do android studio."
+03/05/2024;"BASE TECNOLÓGICA:
+Realiza autenticação a partir de serviços web públicos e redes sociais de acordo com funcionalidades da plataforma mobile. OBSERVAÇÕES:
+Criação do primeiro projeto no Android Studio e planejamento de aula invertida para este final de semana os alunos passarem analisando situações problema e estudando casos cotidianos que acontecem em suas vidas, para recolhimento dos resultados das análises na próxima segunda-feira."
+06/05/2024;"BASE TECNOLÓGICA:
+Integra recursos nativos do dispositivo, de acordo com as necessidades do aplicativo e as características do sistema mobile. OBSERVAÇÕES:
+Aula sobre preparação do celular de cada aluno para uso com Android Studio, cujas ""opções do desenvolvedor"" foram ativadas em cada celular de cada aluno com celular android, mais especificamente as opções: a) Desbloqueio de OEM; b) Depuração USB; c) Instalação via USB e d) Depuração USB (Modo de segurança). Obs: alunos com celulares iphone irão utilizar o emulador do Android Studio ou tablet do Senac. ALUNOS CIENTES DAS OPÇÕES ATIVADAS E ORIENTADOS A DESATIVAR AS ""OPÇÕES DO DESENVOLVEDOR"" FORA DO AMBIENTE DE APRENDIZAGEM DO SESC, CASO NECESSÁRIO, ASSIM COMO ORIENTADOS A TOMAR MAIS CUIDADO COM MENSAGENS SUSPEITAS NO APARELHO. Tablets solicitados para coordenação do Senac para uso nas aulas exclusivamente desta turma."
+07/05/2024;"BASE TECNOLÓGICA:
+Aplica correções e melhorias a partir da validação e depuração do código de integração do web services, conforme necessidades do projeto. OBSERVAÇÕES:
+Configuração do proxy do projeto realizada com sucesso."
+08/05/2024;"BASE TECNOLÓGICA:
+Realiza autenticação a partir de serviços web públicos e redes sociais de acordo com funcionalidades da plataforma mobile. OBSERVAÇÕES:
+Instalação do celular no Android Studio sem sucesso, pois alguns alunos não trouxeram o cabo usb. Os alunos que trouxeram, alguns conseguiram e outros não, pois nem todos os cabos são para dados. Os alunos que trouxeram o cabo, mas não funcionou, foram orientados a substituir seus cabos por outros cabos de dados e trazer na próxima aula. Tentativa de instalação de emulador de celular sem sucesso, pois a internet do espaço conexão falhou várias vezes e não foi possível exibir o projeto inicial em funcionamento."
+09/05/2024;"BASE TECNOLÓGICA:
+Integra recursos de notificações de acordo com as necessidades do aplicativo e as características do sistema mobile. OBSERVAÇÕES:
+Esta aula foi necessário utilizar para resolver um problema no computador do aluno Luis, pois o node não está funcionando."
+10/05/2024;"BASE TECNOLÓGICA:
+Integra recursos nativos do dispositivo, de acordo com as necessidades do aplicativo e as características do sistema mobile. OBSERVAÇÕES:
+Ala sobre instalação do emulador de dispositivo no Android Studio dos computadores do espaço conexão. Alguns computadores ficaram prejudicados, pela instabilidade do proxy e pela limitação de downloads simultâneos."
+13/05/2024;"BASE TECNOLÓGICA:
+Integra recursos nativos do dispositivo, de acordo com as necessidades do aplicativo e as características do sistema mobile. OBSERVAÇÕES:
+Compilação e instalação de dispositivo virtual realizado com sucesso."
+14/05/2024;"BASE TECNOLÓGICA:
+Realiza autenticação a partir de serviços web públicos e redes sociais de acordo com funcionalidades da plataforma mobile. OBSERVAÇÕES:
+Início das atividades de interação com a turma do segundo ano."
+15/05/2024;"BASE TECNOLÓGICA:
+Realiza autenticação a partir de serviços web públicos e redes sociais de acordo com funcionalidades da plataforma mobile. OBSERVAÇÕES:
+Continuação do projeto xadrez 1.0, cuja atividade foi o planejamento para a criação dos movimentos."
+16/05/2024;"BASE TECNOLÓGICA:
+Integra recursos nativos do dispositivo, de acordo com as necessidades do aplicativo e as características do sistema mobile. OBSERVAÇÕES:
+Continuação com a participação do projeto xadrez 1.0 em conjunto com a turma do segundo ano."
+17/05/2024;"BASE TECNOLÓGICA:
+Persiste dados na nuvem usando integração do aplicativo com serviços web de acordo com funcionalidades da plataforma mobile. OBSERVAÇÕES:
+Continuação do projeto xadrez 1.0 em conjunto com a turma do segundo ano. Hoje foram feitos os movimentos permitidos."
+20/05/2024;"BASE TECNOLÓGICA:
+Aplica correções e melhorias a partir da validação e depuração do código de integração do web services, conforme necessidades do projeto. OBSERVAÇÕES:
+Não teve aula no espaço conexão hoje, pois os alunos foram encaminhados para assistir filme no cine vila rica."
+21/05/2024;"BASE TECNOLÓGICA:
+Consome serviços web por meio do aplicativo de acordo com funcionalidades da plataforma mobile. OBSERVAÇÕES:
+Não houve aula, pois os alunos foram visitar dois museus na cidade desde às 8h da manhã, motivo este pelo qual não foi possível verificar quem faltou, uma vez que não compareceram na sala de aula."
+22/05/2024;"BASE TECNOLÓGICA:
+Integra recursos de notificações de acordo com as necessidades do aplicativo e as características do sistema mobile. OBSERVAÇÕES:
+Não teve aula hoje, pois os alunos estão visitando a Catedral e Templo Budista desde às 8h da manhã, motivo pelo qual não foi possível identificar quem faltou, uma vez que os alunos não compareceram na sala de aula."
+23/05/2024;"BASE TECNOLÓGICA:
+Persiste dados na nuvem usando integração do aplicativo com serviços web de acordo com funcionalidades da plataforma mobile. OBSERVAÇÕES:
+Continuação da atividade de desenvolvimento do projeto xadrez 1.0, realizado em conjunto com a turma do segundo ano."
+24/05/2024;"BASE TECNOLÓGICA:
+Persiste dados na nuvem usando integração do aplicativo com serviços web de acordo com funcionalidades da plataforma mobile. OBSERVAÇÕES:
+Aula foi sobre criação de classes, na linguagem javascript, para um ensaio de festa junina, pelo qual foram criados os objetos, parâmetros e valores, motivos pelos quais os alunos solicitaram a próxima aula para ensaiar, onde os alunos do terceiro ano irão ensaiar as coreografias, independentemente de outras turmas, para a festa junina que acontecerá dia 8-6-24 no Sesc, em qual ensaio alguns alunos irão ficar responsáveis por criar os objetos em javascript, de acordo com o ensaio."
+27/05/2024;"BASE TECNOLÓGICA:
+Realiza autenticação a partir de serviços web públicos e redes sociais de acordo com funcionalidades da plataforma mobile. OBSERVAÇÕES:
+Aula foi realizada com base no ensaio da turma para a festa junina que acontecerá em 8-6-24, pela qual a turma fará uma analise de quantos objetos serão criados, de acordo com a última aula na qual foram criadas as classes (https:--github.com-professor-salinet-xadrez1.0-blob-main-ensaio-festa-junina.js) em javascript."
+28/05/2024;"BASE TECNOLÓGICA:
+Integra recursos nativos do dispositivo, de acordo com as necessidades do aplicativo e as características do sistema mobile. OBSERVAÇÕES:
+Continuação com o desenvolvimento do projeto xadrez 1.0, em conjunto com a turma do segundo ano. O aluno Enzo Takashi chegou às 09:55 e foi advertido do atraso."
+29/05/2024;"BASE TECNOLÓGICA:
+Persiste dados na nuvem usando integração do aplicativo com serviços web de acordo com funcionalidades da plataforma mobile. OBSERVAÇÕES:
+Continuação do projeto xadrez 1.0, em desenvolvimento com a turma do segundo ano. A atividade é sobre desenvolver o movimento do cavalo."
+03/06/2024;"BASE TECNOLÓGICA:
+Realiza autenticação a partir de serviços web públicos e redes sociais de acordo com funcionalidades da plataforma mobile. OBSERVAÇÕES:
+Continuação com os movimentos do cavalo no projeto xadrez 1.0, desenvolvido em parceria com a turma do segundo ano."
+04/06/2024;"BASE TECNOLÓGICA:
+Integra recursos de notificações de acordo com as necessidades do aplicativo e as características do sistema mobile. OBSERVAÇÕES:
+Continuação do projeto xadrez 1.0, desenvolvido em conjunto com a turma do segundo ano, pelo qual está sendo desenvolvido os lugares onde as peças vencidas ficarão de cada lado e também o algoritmo que faz com que a peça da cor oposta seja vencida."
+05/06/2024;"BASE TECNOLÓGICA:
+Consome serviços web por meio do aplicativo de acordo com funcionalidades da plataforma mobile. OBSERVAÇÕES:
+Continuação do projeto xadrez 1.0, em conjunto com a turma do segundo ano, pelo qual hoje estão sendo desenvolvidos os movimentos de ""vencer"" as peças, as quais peças vencidas vão para o local já designado pra identificar as peças vencidas de cada cor dos oponentes."
+06/06/2024;"BASE TECNOLÓGICA:
+Realiza autenticação a partir de serviços web públicos e redes sociais de acordo com funcionalidades da plataforma mobile. OBSERVAÇÕES:
+Aula sobre análise do jogo braains.io, pelo qual os alunos analisaram quais classes, objetos, variáveis, elementos e funções existem por trás do jogo."
+10/06/2024;"BASE TECNOLÓGICA:
+Persiste dados na nuvem usando integração do aplicativo com serviços web de acordo com funcionalidades da plataforma mobile. OBSERVAÇÕES:
+Contiuação do projeto xadrez 1.0, desenvolvido em conjunto com aturma do segundo ano, desta vez a atividade é sobre o movimento da torre e como essa peça vence as outras oponentes."
+11/06/2024;"BASE TECNOLÓGICA:
+Persiste dados na nuvem usando integração do aplicativo com serviços web de acordo com funcionalidades da plataforma mobile. OBSERVAÇÕES:
+Continuação do projeto braains.io, cuja atividade foi de calcular a hipotenusa e ânguio para fazer o avatar do centro girar para onde o mouse estiver na tela."
+12/06/2024;"BASE TECNOLÓGICA:
+Consome serviços web por meio do aplicativo de acordo com funcionalidades da plataforma mobile. OBSERVAÇÕES:
+Continuação do projeto braains.io, cuja atividade foi colocar delimitador no cenário, de modo que, quando o avatar encoste nos cantos da imagem do cenário, o cenário pare de se mover para a direção apontada."
+13/06/2024;"BASE TECNOLÓGICA:
+Realiza autenticação a partir de serviços web públicos e redes sociais de acordo com funcionalidades da plataforma mobile. OBSERVAÇÕES:
+Continuação do projeto braains.io, cuja atividade de definir os limites do cenário ainda não foi concluída pelos alunos."
+14/06/2024;"BASE TECNOLÓGICA:
+Integra recursos de notificações de acordo com as necessidades do aplicativo e as características do sistema mobile. OBSERVAÇÕES:
+Atualizações dos navegadores de internet, pois começou a dar erro na exibição do projeto. Finalização do limitador de movimento do cenário."
+17/06/2024;"BASE TECNOLÓGICA:
+Integra recursos de notificações de acordo com as necessidades do aplicativo e as características do sistema mobile. OBSERVAÇÕES:
+Correção das atividades dos alunos de definir limites do cenário do projeto braains.io."
+18/06/2024;"BASE TECNOLÓGICA:
+Integra recursos nativos do dispositivo, de acordo com as necessidades do aplicativo e as características do sistema mobile. OBSERVAÇÕES:
+Continuação do projeto braains.io, cuja atividade é inserir o cenário e todas as demais imagens dentro de uma div, assim como todas as posições na tela."
+20/06/2024;"BASE TECNOLÓGICA:
+Consome serviços web por meio do aplicativo de acordo com funcionalidades da plataforma mobile. OBSERVAÇÕES:
+Não houve aula, pois os alunos estavam em deslocamento retornando de atividades físicas externas, motivo pelo qual não foi possível identificar se algum aluno faltou."
+21/06/2024;"BASE TECNOLÓGICA:
+Realiza autenticação a partir de serviços web públicos e redes sociais de acordo com funcionalidades da plataforma mobile. OBSERVAÇÕES:
+Continuação do projeto braains.io, cuja atividade é inserir aleatoriamente ou fixo alguns itens-imagens no cenário."
+24/06/2024;"BASE TECNOLÓGICA:
+Integra recursos nativos do dispositivo, de acordo com as necessidades do aplicativo e as características do sistema mobile. OBSERVAÇÕES:
+Continuação com o formulário de recolhimento de feedback dos usuário do restaurante do Sesc, cuja atividade hoje é terminar o formulário e instalar o bootstrap no mesmo."
+25/06/2024;"BASE TECNOLÓGICA:
+Aplica correções e melhorias a partir da validação e depuração do código de integração do web services, conforme necessidades do projeto. OBSERVAÇÕES:
+Atividade com renderização aleatória de imagens (objetos) dentro da div do cenário do projeto braains.io."
+26/06/2024;"BASE TECNOLÓGICA:
+Realiza autenticação a partir de serviços web públicos e redes sociais de acordo com funcionalidades da plataforma mobile. OBSERVAÇÕES:
+Continuação do projeto braains.io, cuja atividade ainda é mostrar-renderizar imagens aleatoriamente dentro da div do cenário."
+27/06/2024;"BASE TECNOLÓGICA:
+Consome serviços web por meio do aplicativo de acordo com funcionalidades da plataforma mobile. OBSERVAÇÕES:
+Continuação com a criação-renderização de elementos-imagens aleatórias dentro da div do cenário, cuja atividade é multiplicar o modelo, ensinado pelo professor, para todas as imagens-elementos."
