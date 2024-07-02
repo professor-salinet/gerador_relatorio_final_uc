@@ -1,20 +1,31 @@
 var $ = require( "jquery" );
 var mysql = require('mysql');
 
+// import $ from 'jquery';
+// import mysql from 'mysql';
+
+const mysqlHost = "127.0.0.1";
+const mysqlUser = "root";
+const mysqlPass = "senac@02";
+const mysqlDb = "db_agencia_de_turismo";
+
 var con = mysql.createConnection({
-    host: "127.0.0.1",
-    user: "root",
-    password: "senac@02"
+    host: mysqlHost,
+    user: mysqlUser,
+    password: mysqlPass,
+    database: mysqlDb
 });
 
-var qrySql = "SELECT * FROM db_agencia_de_turismo.tbl_aeroportos;";
+const qrySql = "SELECT * FROM `tbl_aeroportos`;";
 
+// console.clear();
 con.connect(function (err) {
     if (err) throw err;
-    console.log("Connected!");
-    con.query(qrySql, function (err, result) {
+    // console.log("Connected!");
+    con.query(qrySql, function (err, result, fields) {
         if (err) throw err;
-        console.log("Result: " + result);
+        console.log("Result: ", result);
+        // console.log("Fields: ", fields);
     });
 });
 
